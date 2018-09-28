@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ETAL>
+	<FILE>WhatButton.moc</FILE>
+	<OUTPUTFILE>output.txt</OUTPUTFILE>
+	<NAME>What Button</NAME>
+	
+	<CREATED>03/09/2018</CREATED>
+	<LASTMODIFIED>03/09/2018</LASTMODIFIED>
+	<MINVERID>5540</MINVERID>
+	<AUTHOR>Michael.RadleySystems</AUTHOR>
+</ETAL>

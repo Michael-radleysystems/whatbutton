@@ -1,0 +1,14 @@
+dofile("etal\\lib\\keys.moc");
+
+function BeforeKeyPress(nFile, nRecord, nKeyType)
+{
+	local tTemp = ICR_GetPGMData(nFile,nRecord);
+	print("\nStart-------------");
+	print(tTemp.NAME);
+	print("File: "+nFile);
+	print("Record: "+nRecord);
+	print("KeyType: "+nKeyType);
+	print("End-------------\n");
+	
+	return true;
+}
